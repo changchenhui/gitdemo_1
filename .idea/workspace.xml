@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="57810a64-aafd-4286-9b0f-e8da80d1360d" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/../1.txt" beforeDir="false" />
@@ -36,7 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feat/login",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/JavaTest/gitStudy",
     "node.js.detected.package.eslint": "true",
@@ -71,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742732462483</updated>
-      <workItem from="1742732463161" duration="318000" />
+      <workItem from="1742732463161" duration="977000" />
     </task>
     <servers />
   </component>
