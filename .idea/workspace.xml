@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="57810a64-aafd-4286-9b0f-e8da80d1360d" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/../1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javaclone" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feat/role-management",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/JavaTest/gitStudy",
     "node.js.detected.package.eslint": "true",
